@@ -5,7 +5,7 @@ about:
   about_item:
   - icon: ti-headphone
     title: We're Gophers
-    content: We are a bunch of developers who use Go to build reliable, and efficient
+    content: We are a bunch of developers who use Go to build reliable and efficient
       software.
   - icon: ti-star
     title: We're Chinese
