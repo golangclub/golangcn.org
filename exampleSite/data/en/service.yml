@@ -7,19 +7,21 @@ service:
     icon: ti-world
     content: A Chinese version of https://pkg.go.dev/, it is the hub for Go users
       providing centralized and curated resources from across the Go ecosystem. https://golang.com.cn
-  - name: Go installation package mirror site
+  - name: Go binary release mirror
     icon: ti-save-alt
     content: A mirror website of https://golang.org/dl/ for Chinese developers to
       download Go binary release. https://gomirrors.org
   - name: goproxy.io
     icon: ti-package
-    content: A global proxy for Go modules. https://goproxy.io/
+    content: "A global proxy for Go modules. \nhttps://goproxy.io/\n\n"
   - name: Go-mips64le builder
     icon: ti-linux
     content: The first builder in China. https://mzh.io/loongson-go
-  - name: Go-linux-amd64-wsl builder
+  - name: linux-amd64-wsl builder
     icon: ti-microsoft-alt
-    content: Go-linux-amd64-wsl builder
+    content: 'Go-linux-amd64-wsl builder
+
+'
   - icon: ti-pulse
     name: Stay Tuned
     content: Mankind was born on Earth. It was never meant to die here.
