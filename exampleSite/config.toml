@@ -26,25 +26,21 @@ name = "works"
 url = "#portfolio"
 weight = 3
 [[Languages.en.menu.main]]
-name = "contributions"
-url = "#skill"
-weight = 4
-[[Languages.en.menu.main]]
 name = "members"
 url = "#team"
-weight = 5
+weight = 4
 [[Languages.en.menu.main]]
 name = "sponsorship"
 url = "#pricing"
-weight = 6
+weight = 5
 [[Languages.en.menu.main]]
 name = "blog"
 url = "#blog"
-weight = 7
+weight = 6
 [[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
-weight = 8
+weight = 7
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
