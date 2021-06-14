@@ -2,7 +2,6 @@
 author = "Baokun Lee"
 date = 2020-09-29T16:00:00Z
 description = "How to be a member of Golang China Club?"
-draft = true
 image = "/images/blog/golang-lets-go.png"
 image_webp = "/images/blog/golang-lets-go.webp"
 title = "Become a member of Golang China Club"
