@@ -20,7 +20,10 @@ pricing:
   - name: Silver
     price: "¥5000"
     unit: year
-    services: []
+    services:
+    - Tencent Cloud - https://cloud.tencent.com/
+    - TalkGo - https://talkgo.org/
+    - Phoenix New Media - https://www.ifeng.com/
     button:
       label: Signup
       link: mailto:contact@golangcn.org
