@@ -30,7 +30,7 @@ name = "team"
 url = "#team"
 weight = 4
 [[Languages.en.menu.main]]
-name = "pricing"
+name = "sponsorship"
 url = "#pricing"
 weight = 5
 [[Languages.en.menu.main]]
