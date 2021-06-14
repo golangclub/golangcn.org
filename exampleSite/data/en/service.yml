@@ -14,10 +14,9 @@ service:
   - name: goproxy.io
     icon: ti-package
     content: A global proxy for Go modules.
-  - name: Graphic Design
-    icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Go-mips64le builder
+    icon: ti-server
+    content: The first builder in China.
   - name: Apps Development
     icon: ti-package
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
