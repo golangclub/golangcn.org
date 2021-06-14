@@ -63,8 +63,8 @@ team:
     - icon: ti-dribbble
       link: "#"
   - name: Cholerae Hu
-    image_webp: "/images/team/choleraehyq.webp"
-    image: "/images/team/choleraehyq.png"
+    image_webp: "/images/team/gopher.webp"
+    image: "/images/team/gopher.png"
     designation: cholerae@golangcn.org
     content: xxxxx
     social: []
