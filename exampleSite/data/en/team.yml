@@ -105,7 +105,9 @@ team:
     image: "/images/team/crvv.png"
     designation: crvv@golangcn.org
     content: xxx
-    social: ''
+    social:
+    - icon: ti-github
+      link: https://github.com/golang/go/commits?author=crvv
     image_webp: "/images/team/crvv.webp"
   - name: Xiangdong Ji
     image: "/images/team/gopher.jpg"
