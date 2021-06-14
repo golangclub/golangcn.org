@@ -15,7 +15,7 @@ team:
     image_webp: images/team/baokunlee.webp
     image: images/team/baokunlee.jpeg
     designation: bk@golangcn.org
-    content: xxx
+    content: Gopher
     social:
     - icon: ti-github
       link: https://github.com/golang/go/commits?author=oiooj
@@ -23,7 +23,7 @@ team:
     image_webp: images/team/benshi.webp
     image: images/team/benshi.jpeg
     designation: benshi@golangcn.org
-    content: xxx
+    content: Gopher
     social:
     - icon: ti-github
       link: https://github.com/golang/go/commits?author=benshi001
@@ -31,7 +31,7 @@ team:
     image_webp: images/team/changkun.webp
     image: images/team/changkun.png
     designation: changkun@golangcn.org
-    content: xxx
+    content: Gopher
     social:
     - icon: ti-github
       link: https://github.com/golang/go/commits?author=changkun
@@ -39,12 +39,12 @@ team:
     image_webp: "/images/team/gopher.webp"
     image: "/images/team/gopher.jpg"
     designation: cholerae@golangcn.org
-    content: xxx
+    content: Gopher
     social:
     - icon: ti-github
       link: https://go-review.googlesource.com/q/owner:choleraehyq%2540gmail.com
   - name: Eric Fang
-    content: xxx
+    content: Gopher
     social:
     - icon: ti-github
       link: https://go-review.googlesource.com/q/owner:eric.fang%2540arm.com
@@ -53,7 +53,7 @@ team:
     designation: eric.fang@golangcn.org
   - name: Fannie Zhang
     image: "/images/team/gopher.jpg"
-    content: xxx
+    content: Gopher
     social:
     - icon: ti-github
       link: https://go-review.googlesource.com/q/owner:Fannie.Zhang%2540arm.com
@@ -62,13 +62,13 @@ team:
   - name: Meng Zhuo
     image: "/images/team/mengzhuo.jpeg"
     designation: mzh@golangcn.org
-    content: xxx
+    content: Gopher
     social:
     - icon: ti-github
       link: https://github.com/golang/go/commits?author=mengzhuo
     image_webp: "/images/team/mengzhuo.webp"
   - image: "/images/team/chai2010.png"
-    content: xxx
+    content: Gopher
     social:
     - icon: ti-github
       link: https://github.com/golang/go/commits?author=chai2010
@@ -77,7 +77,7 @@ team:
     designation: chai2010@golangcn.org
   - name: Weixie Cui
     image: "/images/team/gopher.jpg"
-    content: xxx
+    content: Gopher
     social:
     - icon: ti-github
       link: https://github.com/golang/go/commits?author=cuiweixie
@@ -93,7 +93,7 @@ team:
     image_webp: "/images/team/crvv.webp"
   - name: Xiangdong Ji
     image: "/images/team/gopher.jpg"
-    content: xxx
+    content: Gopher
     social:
     - icon: ti-github
       link: https://go-review.googlesource.com/q/owner:xiangdong.ji%2540gmail.com
