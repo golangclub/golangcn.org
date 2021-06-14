@@ -17,6 +17,11 @@ pricing:
     button:
       label: Signup
       link: mailto:contact@golangcn.org
+  - name: Silver
+    price: "¥5000"
+    unit: year
+    services: ''
+    button: ''
   - name: Gold
     price: "$199"
     unit: month
