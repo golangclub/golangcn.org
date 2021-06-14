@@ -17,13 +17,13 @@ portfolio:
     - book
     content: 'Modern C++ Tutorial: C++11/14/17/20 On the Fly.'
     link: https://changkun.de/modern-cpp/
-  - name: ants
-    image: images/portfolio/ants-logo.png
-    image_webp: images/portfolio/ants-logo.webp
+  - name: goproxy.io
+    image: images/portfolio/goproxy-logo.png
+    image_webp: images/portfolio/goproxy-logo.webp
     categories:
-    - pool
-    content: ants is a high-performance and low-cost goroutine pool in Go.
-    link: https://github.com/panjf2000/ants
+    - dependency
+    content: A global proxy for Go modules.
+    link: https://goproxy.io/
   - name: gnet
     image: images/portfolio/gnet-logo.png
     image_webp: images/portfolio/gnet-logo.webp
@@ -32,10 +32,10 @@ portfolio:
     content: gnet is a high-performance, lightweight, non-blocking, event-driven networking
       framework written in pure Go.
     link: https://gnet.host/
-  - name: goproxy.io
-    image: images/portfolio/goproxy-logo.png
-    image_webp: images/portfolio/goproxy-logo.webp
+  - name: ants
+    image: images/portfolio/ants-logo.png
+    image_webp: images/portfolio/ants-logo.webp
     categories:
-    - dependency
-    content: A global proxy for Go modules.
-    link: https://goproxy.io/
+    - pool
+    content: ants is a high-performance and low-cost goroutine pool in Go.
+    link: https://github.com/panjf2000/ants
