@@ -72,7 +72,9 @@ team:
   - name: Fannie Zhang
     image: "/images/team/gopher.jpg"
     content: xxx
-    social: ''
+    social:
+    - icon: ti-github
+      link: https://go-review.googlesource.com/q/owner:Fannie.Zhang%2540arm.com
     image_webp: "/images/team/gopher.webp"
     designation: fannie.zhang@golangcn.org
   - name: Meng Zhuo
