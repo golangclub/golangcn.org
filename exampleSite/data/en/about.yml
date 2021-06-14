@@ -6,7 +6,7 @@ about:
   - icon: ti-headphone
     title: We're Gophers
     content: We are a bunch of developers who use Go to build reliable and efficient
-      software.
+      software in production.
   - icon: ti-star
     title: We're Chinese
     content: We are scattered among the Internet, chip, software, and hardware companies
