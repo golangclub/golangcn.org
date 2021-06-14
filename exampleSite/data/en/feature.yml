@@ -8,18 +8,18 @@ feature:
     reliable, and efficient software.
   feature_item:
   - title: Simplicity
-    icon: ti-world
+    icon: ti-infinite
     content: The syntax of Go is pretty simple, it accomplishes a powerful functionality
       with very few reserved words.
   - title: Concurrency
-    icon: ti-panel
+    icon: ti-bolt
     content: Go provides a special feature known as goroutines, a goroutine is a lightweight
       thread managed by the Go runtime, empowering the concurrency in system.
   - title: Powerful Standard Libraries
-    icon: ti-stats-up
+    icon: ti-bag
     content: There is a rich set of library packages in Go, which makes it easier
       for developers to build reliable, and efficient software.
   - title: Cross-Platform
-    icon: ti-announcement
+    icon: ti-harddrive
     content: Go can be used with various platforms like UNIX, Linux, Windows, and
       other operating systems that work on mobile devices as well.
