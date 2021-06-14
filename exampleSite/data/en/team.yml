@@ -112,6 +112,8 @@ team:
   - name: Xiangdong Ji
     image: "/images/team/gopher.jpg"
     content: xxx
-    social: ''
+    social:
+    - icon: ti-github
+      link: https://go-review.googlesource.com/q/owner:xiangdong.ji%2540gmail.com
     image_webp: "/images/team/gopher.webp"
     designation: xdji@golangcn.org
