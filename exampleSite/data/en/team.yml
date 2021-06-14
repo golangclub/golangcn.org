@@ -9,8 +9,8 @@ team:
     designation: panjf2000@golangcn.org
     content: Contributor to Go runtime
     social:
-    - icon: ti-facebook
-      link: "#"
+    - icon: ti-github
+      link: https://github.com/golang/go/commits?author=panjf2000
     - icon: ti-twitter-alt
       link: "#"
     - icon: ti-linkedin
