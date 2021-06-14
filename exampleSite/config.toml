@@ -22,11 +22,11 @@ name = "services"
 url = "#services"
 weight = 2
 [[Languages.en.menu.main]]
-name = "portfolio"
+name = "works"
 url = "#portfolio"
 weight = 3
 [[Languages.en.menu.main]]
-name = "team"
+name = "members"
 url = "#team"
 weight = 4
 [[Languages.en.menu.main]]
