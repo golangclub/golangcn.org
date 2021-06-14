@@ -5,7 +5,8 @@ service:
   service_item:
   - name: Go Chinese package site
     icon: ti-world
-    content: A Chinese version of https://pkg.go.dev/
+    content: A Chinese version of https://pkg.go.dev/, it is the hub for Go users
+      providing centralized and curated resources from across the Go ecosystem.
   - name: Go installation package mirror site
     icon: ti-save-alt
     content: A mirror website of https://golang.org/dl/ for Chinese developers.
