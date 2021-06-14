@@ -19,7 +19,7 @@ feature:
     icon: ti-stats-up
     content: There is a rich set of library packages in Go, which makes it easier
       for developers to build reliable, and efficient software.
-  - title: Easy Customization
+  - title: Cross-Platform
     icon: ti-announcement
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: Go can be used with various platforms like UNIX, Linux, Windows, and
+      other operating systems that work on mobile devices as well.
