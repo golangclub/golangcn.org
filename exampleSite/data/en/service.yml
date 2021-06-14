@@ -13,7 +13,7 @@ service:
       download Go binary release.
   - name: goproxy.io
     icon: ti-package
-    content: A global proxy for Go modules.
+    content: A global proxy for Go modules. https://goproxy.io/
   - name: Go-mips64le builder
     icon: ti-linux
     content: The first builder in China.
