@@ -35,8 +35,7 @@ team:
     image_webp: images/team/benshi.webp
     image: images/team/benshi.jpeg
     designation: benshi@golangcn.org
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    content: xxx
     social:
     - icon: ti-facebook
       link: "#"
