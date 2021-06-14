@@ -1,7 +1,7 @@
 ---
 team:
   enable: true
-  title: Our Team
+  title: Our Members
   team_member:
   - name: Andy Pan
     image_webp: images/team/andypan.webp
