@@ -17,14 +17,8 @@ team:
     designation: bk@golangcn.org
     content: xxx
     social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
+    - icon: ti-github
+      link: https://github.com/golang/go/commits?author=oiooj
   - name: Ben Shi
     image_webp: images/team/benshi.webp
     image: images/team/benshi.jpeg
