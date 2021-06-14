@@ -4,10 +4,10 @@ skill:
   title: Our Contributions
   subtitle: We've made plenty of contributions to Go compiler, runtime, standard libraries,
     etc.
-  content: The members of Golang China Club have contributed a lot of code to the
-    go language so far, mainly focusing on the compiler, runtime, standard libraries,
-    etc. We will continue this work in the future, at the same time, we also hope
-    to have more members to join us.
+  content: |-
+    The members of Golang China Club have contributed a lot of code to the Go programming language so far, mainly focusing on the compiler, runtime, standard libraries, etc. See the following section『Our Members』for details.
+
+    We will continue this work in the future, at the same time, we also hope to have more members to join us.
   image: images/about/company-growth.webp
   skill_item:
   - name: Go compiler
