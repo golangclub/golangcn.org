@@ -10,7 +10,7 @@ service:
   - name: Go installation package mirror site
     icon: ti-save-alt
     content: A mirror website of https://golang.org/dl/ for Chinese developers to
-      download Go binary release.
+      download Go binary release. https://gomirrors.org
   - name: goproxy.io
     icon: ti-package
     content: A global proxy for Go modules. https://goproxy.io/
