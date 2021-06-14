@@ -61,7 +61,7 @@ team:
       link: "#"
   - name: Cholerae Hu
     image_webp: "/images/team/gopher.webp"
-    image: "/images/team/gopher.png"
+    image: "/images/team/gopher.jpg"
     designation: cholerae@golangcn.org
     content: xxx
     social: []
