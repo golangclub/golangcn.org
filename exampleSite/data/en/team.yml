@@ -89,3 +89,9 @@ team:
     name: Shushan Chai
     image_webp: "/images/team/chai2010.webp"
     designation: chai2010@golangcn.org
+  - name: Weixie Cui
+    image: "/images/team/gopher.jpg"
+    content: xxx
+    social: ''
+    image_webp: "/images/team/gopher.webp"
+    designation: cuiweixie@golangcn.org
