@@ -83,3 +83,9 @@ team:
     content: xxx
     social: ''
     image_webp: "/images/team/mengzhuo.webp"
+  - image: "/images/team/chai2010.png"
+    content: xxx
+    social: ''
+    name: Shushan Chai
+    image_webp: "/images/team/chai2010.webp"
+    designation: chai2010@golangcn.org
