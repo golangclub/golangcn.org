@@ -58,7 +58,9 @@ team:
     image: "/images/team/gopher.jpg"
     designation: cholerae@golangcn.org
     content: xxx
-    social: ''
+    social:
+    - icon: ti-github
+      link: https://go-review.googlesource.com/q/owner:choleraehyq%2540gmail.com
   - name: Eric Fang
     content: xxx
     social: ''
