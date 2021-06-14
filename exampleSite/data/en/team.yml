@@ -96,7 +96,9 @@ team:
   - name: Weixie Cui
     image: "/images/team/gopher.jpg"
     content: xxx
-    social: ''
+    social:
+    - icon: ti-github
+      link: https://github.com/golang/go/commits?author=cuiweixie
     image_webp: "/images/team/gopher.webp"
     designation: cuiweixie@golangcn.org
   - name: Wèi Cōngruì
