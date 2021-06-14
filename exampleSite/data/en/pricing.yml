@@ -21,7 +21,9 @@ pricing:
     price: "¥5000"
     unit: year
     services: ''
-    button: ''
+    button:
+      label: Signup
+      link: mailto:contact@golangcn.org
   - name: Gold
     price: "$199"
     unit: month
