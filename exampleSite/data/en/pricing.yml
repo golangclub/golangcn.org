@@ -20,7 +20,7 @@ pricing:
   - name: Silver
     price: "¥5000"
     unit: year
-    services: ''
+    services: []
     button:
       label: Signup
       link: mailto:contact@golangcn.org
