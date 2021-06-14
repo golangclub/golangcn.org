@@ -64,7 +64,7 @@ team:
     image: "/images/team/gopher.jpg"
     designation: cholerae@golangcn.org
     content: xxx
-    social: []
+    social: ''
   - name: Eric Fang
     content: xxx
     social: ''
