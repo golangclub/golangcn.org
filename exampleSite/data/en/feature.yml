@@ -7,10 +7,10 @@ feature:
   content: Go is an open-source programming language that makes it easy to build simple,
     reliable, and efficient software.
   feature_item:
-  - title: SEO Optimized
+  - title: properties
     icon: ti-world
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: The syntax of Go is pretty simple, it accomplishes a powerful functionality
+      with very few reserved words.
   - title: Easy Customization
     icon: ti-panel
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
