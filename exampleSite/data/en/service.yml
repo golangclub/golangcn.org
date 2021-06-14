@@ -20,7 +20,3 @@ service:
   - name: Go-linux-amd64-wsl builder
     icon: ti-microsoft-alt
     content: Go-linux-amd64-wsl builder
-  - name: Networking
-    icon: ti-pulse
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
