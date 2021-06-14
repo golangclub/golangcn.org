@@ -9,10 +9,9 @@ service:
   - name: Go installation package mirror site
     icon: ti-save-alt
     content: A mirror website of https://golang.org/dl/ for Chinese developers.
-  - name: Media &amp; Advertisement
-    icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: goproxy.io
+    icon: ti-package
+    content: A global proxy for Go modules.
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
