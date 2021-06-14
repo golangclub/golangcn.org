@@ -11,10 +11,10 @@ feature:
     icon: ti-world
     content: The syntax of Go is pretty simple, it accomplishes a powerful functionality
       with very few reserved words.
-  - title: Easy Customization
+  - title: Concurrency
     icon: ti-panel
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: Go provides a special feature known as goroutines, a goroutine is a lightweight
+      thread managed by the Go runtime, empowering the concurrency in system.
   - title: SEO Optimized
     icon: ti-stats-up
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
