@@ -1,20 +1,18 @@
 ---
 skill:
   enable: true
-  title: Our Skills
-  subtitle: We’ve skilled in wide range of web and Other digital market tools.
-  content: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis
-    magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat
-    sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+  title: Our Contributions
+  subtitle: We've made plenty of contributions to Go compiler, runtime, standard libraries,
+    etc.
+  content: The members of Golang China Club have contributed a lot of code to the
+    go language so far, mainly focusing on the compiler, runtime, standard libraries,
+    etc. We will continue this work in the future, at the same time, we also hope
+    to have more members to join us.
   image: images/about/company-growth.webp
   skill_item:
-  - name: Business Development
-    percent: 90%
-  - name: Analysis
-    percent: 70%
-  - name: Design
+  - name: Go compiler
     percent: 80%
-  - name: IOS Development
-    percent: 95%
-  - name: Android Development
-    percent: 75%
+  - name: Go runtime
+    percent: 15%
+  - name: " Go standard libraries"
+    percent: 5%
