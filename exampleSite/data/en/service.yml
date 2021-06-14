@@ -20,3 +20,6 @@ service:
   - name: Go-linux-amd64-wsl builder
     icon: ti-microsoft-alt
     content: Go-linux-amd64-wsl builder
+  - icon: ti-pulse
+    name: Stay Tuned
+    content: Mankind was born on Earth. It was never meant to die here.
