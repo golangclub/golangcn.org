@@ -3,6 +3,27 @@ portfolio:
   enable: true
   title: Our Works
   portfolio_item:
+  - name: Go 语言原本
+    image: "/images/portfolio/under-the-hood.png"
+    image_webp: "/images/portfolio/under-the-hood.webp"
+    categories:
+    - book
+    content: Go 语言原本。
+    link: https://golang.design/under-the-hood/
+  - name: Modern C++ Tutorial
+    image: "/images/portfolio/modern-cpp-tutorial.png"
+    image_webp: "/images/portfolio/modern-cpp-tutorial.webp"
+    categories:
+    - book
+    content: 'Modern C++ Tutorial: C++11/14/17/20 On the Fly.'
+    link: https://changkun.de/modern-cpp/
+  - name: ants
+    image: images/portfolio/ants-logo.png
+    image_webp: images/portfolio/ants-logo.webp
+    categories:
+    - pool
+    content: ants is a high-performance and low-cost goroutine pool in Go.
+    link: https://github.com/panjf2000/ants
   - name: gnet
     image: images/portfolio/gnet-logo.png
     image_webp: images/portfolio/gnet-logo.webp
@@ -18,10 +39,3 @@ portfolio:
     - dependency
     content: A global proxy for Go modules.
     link: https://goproxy.io/
-  - name: ants
-    image: images/portfolio/ants-logo.png
-    image_webp: images/portfolio/ants-logo.webp
-    categories:
-    - pool
-    content: ants is a high-performance and low-cost goroutine pool in Go.
-    link: https://github.com/panjf2000/ants
