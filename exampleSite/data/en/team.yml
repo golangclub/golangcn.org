@@ -87,7 +87,9 @@ team:
     image_webp: "/images/team/mengzhuo.webp"
   - image: "/images/team/chai2010.png"
     content: xxx
-    social: ''
+    social:
+    - icon: ti-github
+      link: https://github.com/golang/go/commits?author=chai2010
     name: Shushan Chai
     image_webp: "/images/team/chai2010.webp"
     designation: chai2010@golangcn.org
