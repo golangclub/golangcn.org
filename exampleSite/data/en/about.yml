@@ -3,15 +3,15 @@ about:
   enable: true
   title: About Us
   about_item:
-  - icon: ti-ruler-pencil
+  - icon: ti-headphone
     title: We're Gophers
     content: We are a bunch of developers who use Go to build reliable, and efficient
       software.
-  - icon: ti-cup
+  - icon: ti-star
     title: We're Chinese
     content: We are scattered among the Internet, chip, software, and hardware companies
       in China.
-  - icon: ti-thought
+  - icon: ti-game
     title: We're Contributors
     content: We've decided to give back to the community and already made our contributions
       to Golang.
