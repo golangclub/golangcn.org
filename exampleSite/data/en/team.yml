@@ -3,12 +3,6 @@ team:
   enable: true
   title: Our Team
   team_member:
-  - name: Cholerae Hu
-    image_webp: images/team/choleraehyq.webp
-    image: images/team/choleraehyq.png
-    designation: cholerae@golangcn.org
-    content: xxxxx
-    social: ''
   - name: Andy Pan
     image_webp: images/team/andypan.webp
     image: images/team/andypan.jpg
@@ -68,3 +62,9 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
+  - name: Cholerae Hu
+    image_webp: images/team/choleraehyq.webp
+    image: images/team/choleraehyq.png
+    designation: cholerae@golangcn.org
+    content: xxxxx
+    social: ''
