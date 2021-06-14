@@ -63,7 +63,7 @@ team:
     image_webp: "/images/team/gopher.webp"
     image: "/images/team/gopher.png"
     designation: cholerae@golangcn.org
-    content: xxxxx
+    content: xxx
     social: []
   - name: Eric Fang
     content: xxx
