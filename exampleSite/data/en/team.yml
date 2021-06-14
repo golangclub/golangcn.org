@@ -95,3 +95,9 @@ team:
     social: ''
     image_webp: "/images/team/gopher.webp"
     designation: cuiweixie@golangcn.org
+  - name: Wèi Cōngruì
+    image: "/images/team/crvv.png"
+    designation: crvv@golangcn.org
+    content: xxx
+    social: ''
+    image_webp: "/images/team/crvv.webp"
