@@ -1,8 +1,8 @@
 ---
-service:
+sponsor:
   enable: true
   title: Our Services
-  service_item:
+  sponsor_item:
   - name: golang.com.cn
     icon: ti-world
     content: A Chinese version of https://pkg.go.dev/, it is the hub for Go users
