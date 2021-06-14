@@ -5,7 +5,7 @@ paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
 themesDir = "../.."
-title = "Golang China Contributors"
+title = "Golang China Contributors Club"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2021 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
