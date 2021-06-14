@@ -34,17 +34,21 @@ name = "sponsorship"
 url = "#pricing"
 weight = 5
 [[Languages.en.menu.main]]
+name = "sponsors"
+url = "#sponsor"
+weight = 6
+[[Languages.en.menu.main]]
 name = "blog"
 url = "#blog"
-weight = 6
+weight = 7
 [[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
-weight = 7
+weight = 8
 [[Languages.en.menu.main]]
 name = "themefisher"
 url = "https://themefisher.com/"
-weight = 8
+weight = 9
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
