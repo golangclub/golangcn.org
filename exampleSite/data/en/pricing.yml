@@ -30,7 +30,7 @@ pricing:
     services: []
     button:
       label: Signup
-      link: "#"
+      link: mailto:contact@golangcn.org
   - name: Platinum
     price: "$299"
     unit: month
