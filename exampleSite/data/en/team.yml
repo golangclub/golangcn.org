@@ -6,7 +6,7 @@ team:
   - name: Andy Pan
     image_webp: images/team/andypan.webp
     image: images/team/andypan.jpg
-    designation: Gopher
+    designation: panjf2000@golangcn.org
     content: Contributor to Go runtime
     social:
     - icon: ti-facebook
