@@ -15,10 +15,10 @@ feature:
     icon: ti-panel
     content: Go provides a special feature known as goroutines, a goroutine is a lightweight
       thread managed by the Go runtime, empowering the concurrency in system.
-  - title: SEO Optimized
+  - title: Powerful Standard Libraries
     icon: ti-stats-up
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: There is a rich set of library packages in Go, which makes it easier
+      for developers to build reliable, and efficient software.
   - title: Easy Customization
     icon: ti-announcement
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
