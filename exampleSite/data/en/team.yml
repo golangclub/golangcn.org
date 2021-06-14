@@ -101,3 +101,9 @@ team:
     content: xxx
     social: ''
     image_webp: "/images/team/crvv.webp"
+  - name: Xiangdong Ji
+    image: "/images/team/gopher.jpg"
+    content: xxx
+    social: ''
+    image_webp: "/images/team/gopher.webp"
+    designation: xdji@golangcn.org
