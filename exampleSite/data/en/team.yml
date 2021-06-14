@@ -7,8 +7,7 @@ team:
     image_webp: images/team/andypan.webp
     image: images/team/andypan.jpg
     designation: Gopher
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    content: Contributor to Go runtime
     social:
     - icon: ti-facebook
       link: "#"
