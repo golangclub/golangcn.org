@@ -16,7 +16,7 @@ service:
     content: A global proxy for Go modules. https://goproxy.io/
   - name: Go-mips64le builder
     icon: ti-linux
-    content: The first builder in China.
+    content: The first builder in China. https://mzh.io/loongson-go
   - name: Go-linux-amd64-wsl builder
     icon: ti-microsoft-alt
     content: Go-linux-amd64-wsl builder
