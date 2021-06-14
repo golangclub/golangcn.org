@@ -4,15 +4,12 @@ funfacts:
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
   counter_item:
-  - title: Tencent Cloud
+  - title: Tencent Cloud https://cloud.tencent.com/
     icon: ti-cloud
     count: ''
   - title: TalkGo https://talkgo.org/
     icon: ti-comment
     count: ''
-  - title: Positive feedback
-    icon: ti-thumb-up
-    count: "158"
-  - title: Cups of Coffee
-    icon: ti-gift
-    count: "250"
+  - title: Phoenix New Media https://www.ifeng.com/
+    icon: ti-infinite
+    count: ''
