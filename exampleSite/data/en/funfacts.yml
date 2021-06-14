@@ -7,9 +7,9 @@ funfacts:
   - title: Tencent Cloud
     icon: ti-cloud
     count: ''
-  - title: Projects completed
-    icon: ti-archive
-    count: "350"
+  - title: TalkGo https://talkgo.org/
+    icon: ti-comment
+    count: ''
   - title: Positive feedback
     icon: ti-thumb-up
     count: "158"
