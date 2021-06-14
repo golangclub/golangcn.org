@@ -3,7 +3,7 @@ service:
   enable: true
   title: Our Services
   service_item:
-  - name: Go Chinese package site
+  - name: golang.com.cn
     icon: ti-world
     content: A Chinese version of https://pkg.go.dev/, it is the hub for Go users
       providing centralized and curated resources from across the Go ecosystem.
