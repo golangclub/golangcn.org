@@ -3,19 +3,13 @@ pricing:
   enable: true
   title: Our Sponsors
   pricing_table:
-  - name: 'Tencent Cloud '
-    price: "$99"
-    unit: month
-    services:
-    - 1GB Disk Space
-    - 10 Email Account
-    - Script Installer
-    - 1 GB Storage
-    - 10 GB Bandwidth
-    - 24/7 Tech Support
+  - name: Personal
+    price: "¥500"
+    unit: year
+    services: []
     button:
-      label: Website
-      link: https://cloud.tencent.com/
+      label: Signup
+      link: mailto:contact@golangcn.org
   - name: Silver
     price: "$149"
     unit: month
