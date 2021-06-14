@@ -77,3 +77,9 @@ team:
     social: ''
     image_webp: "/images/team/gopher.webp"
     designation: fannie.zhang@golangcn.org
+  - name: Meng Zhuo
+    image: "/images/team/mengzhuo.jpeg"
+    designation: mzh@golangcn.org
+    content: xxx
+    social: ''
+    image_webp: "/images/team/mengzhuo.webp"
