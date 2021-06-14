@@ -15,7 +15,7 @@ service:
     icon: ti-package
     content: A global proxy for Go modules.
   - name: Go-mips64le builder
-    icon: ti-server
+    icon: ti-linux
     content: The first builder in China.
   - name: Go-linux-amd64-wsl builder
     icon: ti-microsoft-alt
