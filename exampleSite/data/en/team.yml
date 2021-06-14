@@ -33,14 +33,8 @@ team:
     designation: changkun@golangcn.org
     content: xxx
     social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
+    - icon: ti-github
+      link: https://github.com/golang/go/commits?author=changkun
   - name: Cholerae Hu
     image_webp: "/images/team/gopher.webp"
     image: "/images/team/gopher.jpg"
