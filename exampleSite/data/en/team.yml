@@ -86,7 +86,7 @@ team:
   - name: Wèi Cōngruì
     image: "/images/team/crvv.png"
     designation: crvv@golangcn.org
-    content: xxx
+    content: Gopher
     social:
     - icon: ti-github
       link: https://github.com/golang/go/commits?author=crvv
