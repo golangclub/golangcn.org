@@ -71,3 +71,9 @@ team:
     image_webp: "/images/team/gopher.webp"
     image: "/images/team/gopher.jpg"
     designation: eric.fang@golangcn.org
+  - name: Fannie Zhang
+    image: "/images/team/gopher.jpg"
+    content: xxx
+    social: ''
+    image_webp: "/images/team/gopher.webp"
+    designation: fannie.zhang@golangcn.org
