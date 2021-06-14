@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: Our Works
   portfolio_item:
+  - name: Go语法树入门
+    image: "/images/portfolio/go-ast-book.png"
+    image_webp: "/images/portfolio/go-ast-book.webp"
+    categories:
+    - book
+    content: 开启自制编程语言和编译器之旅。
+    link: https://github.com/chai2010/go-ast-book
   - name: Go 语言原本
     image: "/images/portfolio/under-the-hood.png"
     image_webp: "/images/portfolio/under-the-hood.webp"
@@ -10,6 +17,13 @@ portfolio:
     - book
     content: Go 语言原本。
     link: https://golang.design/under-the-hood/
+  - name: Go语言高级编程
+    image: "/images/portfolio/advanced-go-programming-book.jpg"
+    image_webp: "/images/portfolio/advanced-go-programming-book.webp"
+    categories:
+    - book
+    content: 本书涵盖CGO、Go汇编语言、RPC实现、Web框架实现、分布式系统等高阶主题。
+    link: https://chai2010.cn/advanced-go-programming-book/
   - name: Modern C++ Tutorial
     image: "/images/portfolio/modern-cpp-tutorial.png"
     image_webp: "/images/portfolio/modern-cpp-tutorial.webp"
