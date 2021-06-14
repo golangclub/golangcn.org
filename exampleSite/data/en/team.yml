@@ -4,7 +4,7 @@ team:
   title: Our Team
   team_member:
   - name: Andy Pan
-    image_webp: images/team/team-1.webp
+    image_webp: images/team/andy-pan.webp
     image: images/team/andy-pan.jpg
     designation: Gopher
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
