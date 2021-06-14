@@ -1,7 +1,7 @@
 ---
 pricing:
   enable: true
-  title: Our Sponsors
+  title: Our Sponsorship Plan
   pricing_table:
   - name: Personal
     price: "¥500"
