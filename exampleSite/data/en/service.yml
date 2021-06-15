@@ -9,8 +9,8 @@ service:
       providing centralized and curated resources from across the Go ecosystem. https://golang.com.cn
   - name: Go binary release mirror
     icon: ti-save-alt
-    content: A mirror website of https://golang.org/dl/ for Chinese developers to
-      download Go binary release. https://gomirrors.org
+    content: A mirror website of https://golang.org/dl/, speeding up downloads of
+      Go binary releases for Chinese Go users. https://gomirrors.org
   - name: goproxy.io
     icon: ti-package
     content: "A global proxy for Go modules. \nhttps://goproxy.io/\n\n"
