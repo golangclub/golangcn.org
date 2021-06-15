@@ -10,9 +10,9 @@ skill:
     We will continue this work in the future, at the same time, we also hope to have more members to join us.
   image: images/about/company-growth.webp
   skill_item:
-  - name: Go compiler
+  - name: " Go compiler"
     percent: 80%
-  - name: Go runtime
+  - name: " Go runtime"
     percent: 15%
   - name: " Go standard libraries"
     percent: 5%
