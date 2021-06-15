@@ -7,7 +7,7 @@ service:
     icon: ti-world
     content: A Chinese version of https://pkg.go.dev/, it is the hub for Go users
       providing centralized and curated resources from across the Go ecosystem. https://golang.com.cn
-  - name: Go binary release mirror
+  - name: Go binary releases mirror
     icon: ti-save-alt
     content: A mirror website of https://golang.org/dl/, speeding up downloads of
       Go binary releases for Chinese Go users. https://gomirrors.org
