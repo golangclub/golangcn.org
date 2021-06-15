@@ -35,14 +35,14 @@ portfolio:
     image: images/portfolio/goproxy-logo.png
     image_webp: images/portfolio/goproxy-logo.webp
     categories:
-    - dependency
+    - software&service
     content: A global proxy for Go modules.
     link: https://goproxy.io/
   - name: gnet
     image: images/portfolio/gnet-logo.png
     image_webp: images/portfolio/gnet-logo.webp
     categories:
-    - 'networking '
+    - software&service
     content: gnet is a high-performance, lightweight, non-blocking, event-driven networking
       framework written in pure Go.
     link: https://gnet.host/
@@ -50,6 +50,6 @@ portfolio:
     image: images/portfolio/ants-logo.png
     image_webp: images/portfolio/ants-logo.webp
     categories:
-    - pool
+    - software&service
     content: ants is a high-performance and low-cost goroutine pool in Go.
     link: https://github.com/panjf2000/ants
