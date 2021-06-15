@@ -1,8 +1,8 @@
 ---
 feature:
   enable: true
-  image: images/about/go.png
-  image_webp: images/about/go.webp
+  image: "/images/background/golang.png"
+  image_webp: "/images/background/golang.webp"
   title: Go programming language
   content: Go is an open-source programming language that makes it easy to build simple,
     reliable, and efficient software.
