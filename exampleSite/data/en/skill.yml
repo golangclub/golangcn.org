@@ -10,7 +10,7 @@ skill:
     We will continue this work in the future, at the same time, we also hope to have more Chinese developers to join us.
   image: images/about/company-growth.webp
   skill_item:
-  - name: " Go compiler"
+  - name: "  Go compiler"
     percent: 80%
   - name: " Go runtime"
     percent: 15%
