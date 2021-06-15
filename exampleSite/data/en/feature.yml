@@ -18,7 +18,7 @@ feature:
   - title: Powerful Standard Libraries
     icon: ti-bag
     content: There is a rich set of library packages in Go, which makes it easier
-      for developers to build reliable, and efficient software.
+      for developers to build reliable and efficient software.
   - title: Cross-Platform
     icon: ti-harddrive
     content: Go can be used with various platforms like UNIX, Linux, Windows, and
