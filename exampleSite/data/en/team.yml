@@ -21,7 +21,7 @@ team:
       link: https://github.com/golang/go/commits?author=oiooj
   - name: Ben Shi
     image_webp: images/team/benshi.webp
-    image: images/team/benshi.jpeg
+    image: images/team/benshi.png
     designation: benshi@golangcn.org
     content: Gopher
     social:
