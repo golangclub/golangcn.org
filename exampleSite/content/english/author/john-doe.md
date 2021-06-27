@@ -1,15 +1,14 @@
 ---
-title: "John Doe"
-image: ""
-email: "email2@example.org"
+title: Andy Pan
+image: images/team/andypan.webp
+email: panjf2000@golangcn.org
 social:
-  - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
-  - icon : "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
-  - icon : "ti-github" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
----
+- icon: ti-facebook
+  link: https://www.facebook.com/andy.pan.jianfeng/
+- icon: ti-twitter-alt
+  link: https://twitter.com/_andy_pan
+- icon: ti-github
+  link: https://github.com/panjf2000
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+---
+Andy is currently a front-line programmer based in South China, mostly writing server-side code, and by the way, also a modern agnostic.
