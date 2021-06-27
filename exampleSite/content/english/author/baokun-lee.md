@@ -11,4 +11,4 @@ social:
   link: "#"
 
 ---
-Founder of Golang China Contributors Club
+Baokun is the founder of Golang China Contributors Club
