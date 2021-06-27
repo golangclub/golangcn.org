@@ -5,8 +5,10 @@ banner:
   bg_image: images/backgrounds/v.jpg
   icon: ''
   title: Golang China Contributors Club
-  content: If you have more than about 10 CLs merged into the Go repo, feel free to send an email applying for membership. You can also get an email account with the suffix @golangcn.org forever.
+  content: "If you have more than about 10 CLs merged into the Go repo, feel free
+    to send an email applying for membership. \n\nYou can also get an email account
+    with the suffix @golangcn.org forever."
   button:
     enable: true
     label: Explore More
-    link: "blog/become-a-member-of-golang-china-club/"
+    link: blog/become-a-member-of-golang-china-club/
