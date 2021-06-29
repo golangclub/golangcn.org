@@ -4,7 +4,7 @@ banner:
   bg_image_webp: images/backgrounds/v.webp
   bg_image: images/backgrounds/v.jpg
   icon: ''
-  title: Golang China Contributors Club
+  title: Golang China Contributor Club
   content: |-
     If you have more than about 10 CLs merged into the Go repo, feel free to send an email applying for membership.
 
