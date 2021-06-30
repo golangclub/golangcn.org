@@ -2,15 +2,15 @@
 contact:
   enable: true
   title: Contact Us
-  subtitle: Contact Details
-  content: Feel free to send us e-mails for anything about Golang China Club.
+  subtitle:
+  content:
   contact_list:
   - icon: ti-location-pin
     info: China
   - icon: ti-email
     info: 'Email: contact@golangcn.org'
   contact_form:
-    enable: true
+    enable: false
     form_action: "#"
     name: Your Name
     email: Your Email
