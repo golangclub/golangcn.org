@@ -8,33 +8,26 @@ pricing:
     unit: year
     services: []
     button:
-      label: Signup
-      link: mailto:contact@golangcn.org
-  - name: Non-Profit
-    price: "¥1000"
-    unit: year
-    services: []
-    button:
-      label: Signup
+      label: Contact
       link: mailto:contact@golangcn.org
   - name: Silver
     price: "¥5000"
     unit: year
     services: []
     button:
-      label: Signup
+      label: Contact
       link: mailto:contact@golangcn.org
   - name: Gold
     price: "¥20000"
     unit: year
     services: []
     button:
-      label: Signup
+      label: Contact
       link: mailto:contact@golangcn.org
   - name: Platinum
     price: "¥100000"
     unit: year
     services: []
     button:
-      label: Signup
+      label: Contact
       link: mailto:contact@golangcn.org

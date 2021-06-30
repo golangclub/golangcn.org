@@ -806,6 +806,7 @@ a:hover {
 .price-title {
   background-color: #292F36;
   padding: 30px 0 20px;
+  margin-bottom: 20px;
 }
 
 .price-title h3 {

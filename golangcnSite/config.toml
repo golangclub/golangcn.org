@@ -3,7 +3,7 @@ disableLanguages = []
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
-theme = "meghna-hugo"
+theme = "golangcn.org"
 themesDir = "../.."
 title = "Golang China Contributors Club"
 [Languages.en]
