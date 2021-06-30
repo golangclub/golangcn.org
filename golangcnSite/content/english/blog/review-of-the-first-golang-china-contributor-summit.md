@@ -35,7 +35,7 @@ author: contributor
 
 ### 国内 Go 语言贡献者社区（by Baokun Lee）
 
-![BKLee](/images/blog/BKLee.jpg)
+![BKLee](/images/blog/bklee.jpg)
 
 当前中国的 Go 开发者数量庞大，并且 Go 语言在很多公司已成为主流开发语言。
 
@@ -72,7 +72,7 @@ author: contributor
 
 俱乐部骨干成员 Zhuo Meng 和 Andy Pan 由于广东地区突发的新冠疫情而未能按原计划到场参加本次峰会，因此通过远程视频接入了此次峰会。
 
-![](/images/blog/MengZhuo.jpg)
+![](/images/blog/mengzhuo.jpg)
 
 俱乐部欢迎更多的 gophers 加入，除了定期的组内交流和干货分享，还有其它回馈和鼓励机制：
 
@@ -84,7 +84,7 @@ author: contributor
 
 在 2021 年 6 月，Andy Pan 为俱乐部改版了官方网站，加入博客系统，鼓励成员们知识分享和交流。https://golangcn.org/
 
-![OfficialSite](/images/blog/OfficialSite.png)
+![OfficialSite](/images/blog/website.png)
 
 ### Go Map 高并发读写（by 张怀龙）
 
@@ -111,11 +111,11 @@ author: contributor
 
 ARM64 是 Go 工具链重点支持的平台，来自 ARM 中国的 Zheng Xu 带领他的团队为 Go 工具链贡献了大量的 ARM64 的特性和优化。Zheng Xu 此次分享了他团队下一步的工作计划，并欢迎各界 gophers 加入他的团队（其中还有国内唯一的女性贡献者，总贡献量已进入全球前 100 名）。
 
-![ZhengXu](/images/blog/ZhengXu.jpg)
+![ZhengXu](/images/blog/zhengxu.jpg)
 
-![Eric](/images/blog/Eric.jpg)
+![Eric](/images/blog/eric.jpg)
 
-![Fannie](/images/blog/Fannie.jpg)
+![Fannie](/images/blog/fannie.jpg)
 
 ## 分组讨论
 
