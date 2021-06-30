@@ -23,7 +23,7 @@ team:
     image_webp: images/team/benshi.webp
     image: images/team/benshi.png
     designation: benshi@golangcn.org
-    content: Go Compiler & LLVM contributor
+    content: Go compiler & LLVM contributor
     social:
     - icon: ti-github
       link: https://github.com/golang/go/commits?author=benshi001
@@ -44,7 +44,7 @@ team:
     - icon: ti-github
       link: https://go-review.googlesource.com/q/owner:choleraehyq%2540gmail.com
   - name: Eric Fang
-    content: Go Compiler contributor
+    content: Go compiler contributor
     social:
     - icon: ti-github
       link: https://go-review.googlesource.com/q/owner:eric.fang%2540arm.com
@@ -53,7 +53,7 @@ team:
     designation: eric.fang@golangcn.org
   - name: Fannie Zhang
     image: "/images/team/gopher.jpg"
-    content: Go Compiler contributor
+    content: Go compiler contributor
     social:
     - icon: ti-github
       link: https://go-review.googlesource.com/q/owner:Fannie.Zhang%2540arm.com
@@ -62,7 +62,7 @@ team:
   - name: Meng Zhuo
     image: "/images/team/mengzhuo.jpeg"
     designation: mzh@golangcn.org
-    content: Go mipsle builder maintainer
+    content: Go mips64le builder maintainer
     social:
     - icon: ti-github
       link: https://github.com/golang/go/commits?author=mengzhuo
