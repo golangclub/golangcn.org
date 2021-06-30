@@ -15,7 +15,7 @@ team:
     image_webp: images/team/baokunlee.webp
     image: images/team/baokunlee.jpeg
     designation: bk@golangcn.org
-    content: Gopher
+    content: Author of goproxy.io
     social:
     - icon: ti-github
       link: https://github.com/golang/go/commits?author=oiooj
@@ -62,7 +62,7 @@ team:
   - name: Meng Zhuo
     image: "/images/team/mengzhuo.jpeg"
     designation: mzh@golangcn.org
-    content: Gopher
+    content: Go mipsle builder maintainer
     social:
     - icon: ti-github
       link: https://github.com/golang/go/commits?author=mengzhuo
