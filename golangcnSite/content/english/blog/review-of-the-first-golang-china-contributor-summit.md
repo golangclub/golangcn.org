@@ -125,25 +125,8 @@ ARM64 是 Go 工具链重点支持的平台，来自 ARM 中国的 Zheng Xu 带�
 - 标准库和 Runtime
 - 社区发展和生态
 
-| 分组讨论 |               内容               |
-| :------: | :------------------------------: |
-|  第一桌  |                                  |
-|   主题   |        编译器/工具链/硬件        |
-| Topic 1  |     Address Sanitizer in Go      |
-| Topic 2  |          Go on GraalVM           |
-|          |                                  |
-|  第二桌  |                                  |
-|   主题   |         标准库和 Runtime         |
-| Topic 1  |       Goroutine 抢占式调度       |
-| Topic 2  |        Go 泛型和标准容器         |
-|          |                                  |
-|  第三桌  |                                  |
-|   主题   |          社区发展和生态          |
-| Topic 1  |  如何吸引更多的国人成为贡献者？  |
-| Topic 2  | 如何对 Go Core Team 施加影响力？ |
-| Topic 3  |  如何提高基础软件开发者的 KPI？  |
-| Topic 4  |      Go 工具链及代码本地化       |
-
+![](/images/blog/agenda1.png)
+<br />
 
 ![](/images/blog/table1.jpg)
 
