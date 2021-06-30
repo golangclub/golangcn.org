@@ -1,12 +1,12 @@
-+++
-author = "contributor"
-date = 2020-09-29T16:00:00Z
-description = "How to be a member of Golang China Club?"
-image = "/images/blog/golang-lets-go.png"
-image_webp = "/images/blog/golang-lets-go.webp"
-title = "Become a member of Golang China Club"
+---
+title: Become a member of Golang China Club
+date: 2020-09-29T16:00:00Z
+description: How to be a member of Golang China Club?
+image: "/images/blog/golang-lets-go.png"
+image_webp: "/images/blog/golang-lets-go.webp"
+author: contributor
 
-+++
+---
 
 If you have more than about 10 CLs merged into the [Go repo](https://github.com/golang/go), feel free to [send an email applying for membership.](mailto:contact@golangcn.org) You can also get an email account with the suffix @golangcn.org forever, for email activation [see doc](../email-settings).
 

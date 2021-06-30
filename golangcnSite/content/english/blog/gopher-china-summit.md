@@ -1,10 +1,10 @@
 ---
 title: 2021 Go 语言中国贡献者峰会
 date: 2021-06-12T08:51:12.000+00:00
-image_webp: "/images/blog/go-code.webp"
-image: "/images/blog/go-code.jpeg"
-author: Andy Pan
 description: 2021 Go 语言中国贡献者峰会全部议程鲜鲜出炉！
+image: "/images/blog/go-code.jpeg"
+image_webp: "/images/blog/go-code.webp"
+author: Andy Pan
 
 ---
 # 我们是谁

@@ -1,12 +1,12 @@
-+++
-author = "contributor"
-date = 2021-06-29T19:00:00Z
-description = "首届 Go 语言中国贡献者峰会回顾"
-image = "/images/blog/all.jpg"
-image_webp = "/images/blog/all.jpg"
-title = "首届 Go 语言中国贡献者峰会回顾"
+---
+title: "首届 Go 语言中国贡献者峰会回顾"
+date: 2021-06-29T19:00:00Z
+description: 首届 Go 语言中国贡献者峰会回顾
+image: "/images/blog/all.jpg"
+image_webp: "/images/blog/all.jpg"
+author: contributor
 
-+++
+---
 
 # Golang China Contributor Summit 2021
 

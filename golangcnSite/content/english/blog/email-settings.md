@@ -1,12 +1,12 @@
-+++
-author = "contributor"
-date = 2020-09-29T16:02:00Z
-description = "Email Account Settings"
-image = "/images/blog/golang-lets-go.png"
-image_webp = "/images/blog/golang-lets-go.webp"
-title = "Email Account Settings"
+---
+title: Email Account Settings
+date: 2020-09-29T16:02:00Z
+description: Email Account Settings
+image: "/images/blog/golang-lets-go.png"
+image_webp: "/images/blog/golang-lets-go.webp"
+author: contributor
 
-+++
+---
 
 #### 0. Activation Email Account
 
