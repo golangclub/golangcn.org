@@ -1101,6 +1101,7 @@ a:hover {
 
 .member-meta {
   padding: 15px;
+  min-height: 150px;
 }
 
 .member-meta h4 {

@@ -31,7 +31,7 @@ team:
     image_webp: images/team/changkun.webp
     image: images/team/changkun.png
     designation: changkun@golangcn.org
-    content: Research combines HCI, computer graphics, machine learning, and system programming.
+    content: Go contributor, Pursuing a Ph.D. @LMU Munich.
     social:
     - icon: ti-github
       link: https://github.com/golang/go/commits?author=changkun
