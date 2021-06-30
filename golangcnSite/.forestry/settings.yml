@@ -57,7 +57,7 @@ sections:
   create: all
   match: "*.toml"
   new_doc_ext: toml
-upload_dir: exampleSite/static/images/blog
+upload_dir: golangcnSite/static/images/blog
 public_path: "/images/blog"
 front_matter_path: ''
 use_front_matter_path: false
