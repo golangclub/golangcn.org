@@ -8,7 +8,7 @@ author: contributor
 
 ---
 
-If you have more than about 10 CLs merged into the [Go repo](https://github.com/golang/go), feel free to [send an email applying for membership.](mailto:contact@golangcn.org) You can also get an email account with the suffix @golangcn.org forever, for email activation [see doc](../email-settings).
+If you have more than about 10 CLs merged into the [Go repo](https://github.com/golang/go), feel free to [send an email applying for membership.](mailto:contact@golangcn.org) You will also get an email account with the suffix @golangcn.org permanently, for email activation [see doc](../email-settings).
 
 Being a member of the Club, you can enjoy a wide range of exclusive benefits and unparalleled job opportunities.
 
