@@ -7,7 +7,7 @@ team:
     image_webp: images/team/andypan.webp
     image: images/team/andypan.jpg
     designation: panjf2000@golangcn.org
-    content: Creator of ants and gnet, Go runtime contributor.
+    content: Creator of ants and gnet, Go runtime & Redis contributor.
     social:
     - icon: ti-github
       link: https://github.com/golang/go/commits?author=panjf2000
