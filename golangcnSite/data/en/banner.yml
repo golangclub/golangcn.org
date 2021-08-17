@@ -6,7 +6,7 @@ banner:
   icon: ''
   title: Golang China Contributor Club
   content: |-
-    If you have more than about 10 CLs merged into the Go repo, feel free to send an email applying for membership.
+    If you have more than 10 effective commits merged into the Go repo, feel free to send an email applying for membership.
 
     You will also get an email account with the suffix @golangcn.org permanently.
   button:
