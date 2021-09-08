@@ -59,6 +59,14 @@ team:
       link: https://go-review.googlesource.com/q/owner:Fannie.Zhang%2540arm.com
     image_webp: "/images/team/gopher.webp"
     designation: fannie.zhang@golangcn.org
+  - name: Kor Zhao
+    image: "/images/team/gopher.jpg"
+    content: Go compiler contributor
+    social:
+    - icon: ti-github
+      link: https://github.com/golang/go/commits?author=korzhao
+    image_webp: "/images/team/gopher.webp"
+    designation: korzhao@golangcn.org
   - name: Meng Zhuo
     image: "/images/team/mengzhuo.jpeg"
     designation: mzh@golangcn.org
