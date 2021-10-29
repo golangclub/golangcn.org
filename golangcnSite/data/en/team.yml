@@ -67,6 +67,14 @@ team:
       link: https://github.com/golang/go/commits?author=korzhao
     image_webp: "/images/team/gopher.webp"
     designation: korzhao@golangcn.org
+  - name: Leonard Wang
+    image: "/images/team/gopher.jpg"
+    content: Go contributor
+    social:
+      - icon: ti-github
+        link: https://go-review.googlesource.com/q/owner:wangdeyu0907%2540gmail.com
+    image_webp: "/images/team/gopher.webp"
+    designation: wangdeyu@golangcn.org
   - name: Meng Zhuo
     image: "/images/team/mengzhuo.jpeg"
     designation: mzh@golangcn.org
