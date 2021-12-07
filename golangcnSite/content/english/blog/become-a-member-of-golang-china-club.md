@@ -8,7 +8,7 @@ author: contributor
 
 ---
 
-If you have more than 10 effective commits merged into the [Go repo](https://github.com/golang/go), feel free to [send an email applying for membership.](mailto:contact@golangcn.org) You will also get an email account with the suffix @golangcn.org permanently, for email activation [see doc](../email-settings).
+If you have more than 10 effective commits merged into the [Go repo](https://github.com/golang/go), feel free to [send an email applying for membership.](mailto:join@golangcn.org) You will also get an email account with the suffix @golangcn.org permanently, for email activation [see doc](../email-settings).
 
 Please note that the aforementioned effective commits refer to source code changes such as bug fixes, code optimizations, code refactoring, new features, etc., rather than typo fixes. 
 
