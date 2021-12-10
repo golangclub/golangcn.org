@@ -31,11 +31,15 @@ Github: [https://github.com/settings/emails](https://github.com/settings/emails 
 
 go-review: [https://go-review.googlesource.com/settings/#EmailAddresses](https://go-review.googlesource.com/settings/#EmailAddresses "https://go-review.googlesource.com/settings/#EmailAddresses")
 
-#### 3. Send message to all members
+#### 3. Send a PR to add your profile for golangcn.org
+
+Send a PR to display your profile on our website, example: [https://github.com/golangclub/golangcn.org/pull/1/files](https://github.com/golangclub/golangcn.org/pull/1/files)
+
+#### 4. Send message to all members
 
 If you are in, you can use _contributors@golangcn.org_ to send message to all members, others will not be able to do this.
 
-#### 4. Logos
+#### 5. Logos
 
 First things first: you will need our permission to use our logos.
 
