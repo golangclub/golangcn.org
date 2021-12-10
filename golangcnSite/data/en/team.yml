@@ -115,3 +115,11 @@ team:
       link: https://go-review.googlesource.com/q/owner:xiangdong.ji%2540gmail.com
     image_webp: "/images/team/gopher.webp"
     designation: xdji@golangcn.org
+  - name: Guangyuan Zhou
+    image: "/images/team/gopher.jpg"
+    content: Go contributor
+    social:
+      - icon: ti-github
+        link: https://go-review.googlesource.com/q/owner:zhouguangyuan.xian%2540gmail.com
+    image_webp: "/images/team/gopher.webp"
+    designation: zhouguangyuan@golangcn.org
