@@ -123,3 +123,11 @@ team:
         link: https://go-review.googlesource.com/q/owner:zhouguangyuan.xian%2540gmail.com
     image_webp: "/images/team/gopher.webp"
     designation: zhouguangyuan@golangcn.org
+  - name: Wayne Zuo
+    image: "/images/team/gopher.jpg"
+    content: Go compiler contributor
+    social:
+      - icon: ti-github
+        link: https://github.com/golang/go/commits?author=wdvxdr1123
+    image_webp: "/images/team/gopher.webp"
+    designation: wdvxdr@golangcn.org
