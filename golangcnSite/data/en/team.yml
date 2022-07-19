@@ -75,14 +75,14 @@ team:
         link: https://go-review.googlesource.com/q/owner:wangdeyu0907%2540gmail.com
     image_webp: "/images/team/gopher.webp"
     designation: wangdeyu@golangcn.org
-  - name: XiaoDong Liu
+  - name: Xiaodong Liu
     image: "/images/team/gopher.jpg"
-    content: Go contributor, Loongson maintainer
+    content: linux/loong64 port maintainer
     social:
       - icon: ti-github
-        link: https://go-review.googlesource.com/q/status:merged+author:liuxiaodong
+        link: https://github.com/golang/go/commits?author=XiaodongLoong
     image_webp: "/images/team/gopher.webp"
-    designation: liuxiaodong@golangcn.org
+    designation: xiaodongliu@golangcn.org
   - name: Meng Zhuo
     image: "/images/team/mengzhuo.jpeg"
     designation: mzh@golangcn.org
