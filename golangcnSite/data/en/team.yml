@@ -99,6 +99,14 @@ team:
     name: Shushan Chai
     image_webp: "/images/team/chai2010.webp"
     designation: chai2010@golangcn.org
+  - name: Shuai Tan
+    image: "/images/team/tanshuai.jpg"
+    content: Go contributor
+    social:
+      - icon: ti-github
+        link: https://github.com/golang/go/commits?author=hopehook
+    image_webp: "/images/team/tanshuai.webp"
+    designation: hopehook@golangcn.org
   - name: Weixie Cui
     image: "/images/team/gopher.jpg"
     content: Go contributor
