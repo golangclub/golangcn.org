@@ -8,9 +8,11 @@ author: contributor
 
 ---
 
-If you have more than 10 effective commits merged into the [Go repo](https://github.com/golang/go), feel free to [send an email applying for membership.](mailto:join@golangcn.org) You will also get an email account with the suffix @golangcn.org permanently, for email activation [see doc](../email-settings).
+If you have more than 10 effective commits (abbreviated to EC) merged into the [Go Repos](https://github.com/orgs/golang/repositories), feel free to [send an email applying for membership.](mailto:join@golangcn.org) You will also get an email account with the suffix @golangcn.org permanently, for email activation [see doc](../email-settings).
 
-Please note that the aforementioned effective commits refer to source code changes such as bug fixes, code optimizations, code refactoring, new features, etc., rather than typo fixes. 
+Please note that the aforementioned "effective commits" implies source code changes such as bug fixes, global/local optimizations, functionality refactorings and new features, etc.
+
+NFC (non functional commits) such as typo fixes, test case supplementations and dead code eliminations are not considered as EC. Since the core opinion of us is not only holding titles of "golang contributor", but also diving into the Go internals and improving our coding skills.
 
 Being a member of the Club, you can enjoy a wide range of exclusive benefits and unparalleled job opportunities.
 
