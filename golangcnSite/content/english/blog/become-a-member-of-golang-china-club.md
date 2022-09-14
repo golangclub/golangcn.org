@@ -12,7 +12,7 @@ If you have more than 10 effective commits (abbreviated to EC) merged into the [
 
 Please note that the aforementioned "effective commits" implies source code changes such as bug fixes, global/local optimizations, functionality refactorings and new features, etc.
 
-NFC (non functional commits) such as typo fixes, test case supplementations and dead code eliminations are not considered as EC. Since the core opinion of us is not only holding titles of "golang contributor", but also diving into the Go internals and improving our coding skills.
+NFC (non functional commits) such as typo fixes, test case supplementations and dead code eliminations are not considered as EC. Since the core opinion of us is not only holding the title of "golang contributor", but also diving into the Go internals and improving our coding skills.
 
 Being a member of the Club, you can enjoy a wide range of exclusive benefits and unparalleled job opportunities.
 
@@ -22,5 +22,3 @@ Being a member of the Club, you can enjoy a wide range of exclusive benefits and
 * 2020 GopherChina Free ticket
 * 2021 ECUG Con Free ticket by Qiniu Cloud
 * 2021 GopherChina Free ticket
-
-
