@@ -24,6 +24,7 @@ Being a member of the Club, you can enjoy a wide range of exclusive benefits and
 
 Some more clarification,
 
-* We are not a profitable club, and all cost is shared by the members.
+* We are not a profitable club, and all cost is shared by the members (but not compulsory).
 * We are a private club with no commercial involvement to Golang's official community.
+* Though several members improve the Go toolchain as their full time job, most of us contribute in our spare time.
 * We encourage EC than NFC, since we pursue not only the title of 'golang contributor', but also deep understanding of the Go internals.
