@@ -147,3 +147,11 @@ team:
         link: https://github.com/golang/go/commits?author=wdvxdr1123
     image_webp: "/images/team/gopher.webp"
     designation: wdvxdr@golangcn.org
+  - name: Zizhao Zhang
+    image: "/images/team/zhangzizhao.jpg"
+    content: Go contributor
+    social:
+      - icon: ti-github
+        link: https://go-review.googlesource.com/q/owner:zzz%2540golangcn.org
+    image_webp: "/images/team/zhangzizhao.webp"
+    designation: zzz@golangcn.org
