@@ -155,3 +155,11 @@ team:
         link: https://go-review.googlesource.com/q/owner:zzz%2540golangcn.org
     image_webp: "/images/team/zhangzizhao.webp"
     designation: zzz@golangcn.org
+  - name: Dejiang Zhu
+    image: "/images/team/doujiang24.jpg"
+    image_webp: "/images/team/doujiang24.webp"
+    content: Go contributor
+    social:
+      - icon: ti-github
+        link: https://github.com/golang/go/commits?author=doujiang24
+    designation: doujiang24@golangcn.org
