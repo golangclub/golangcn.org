@@ -163,3 +163,11 @@ team:
       - icon: ti-github
         link: https://github.com/golang/go/commits?author=doujiang24
     designation: doujiang24@golangcn.org
+  - name: Xiangyang Sun
+    image: "/images/team/gopher.jpg"
+    image_webp: "/images/team/gopher.webp"
+    content: Go contributor
+    social:
+      - icon: ti-github
+        link: https://github.com/golang/go/commits?author=callthingsoff
+    designation: xigua67damn@golangcn.org
