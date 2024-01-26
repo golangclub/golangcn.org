@@ -23,7 +23,7 @@ team:
     image_webp: images/team/benshi.webp
     image: images/team/benshi.png
     designation: benshi2@golangcn.org
-    content: Go compiler & [LLVM](https://github.com/llvm/llvm-project/commits?author=benshi001) contributor
+    content: [Go compiler](https://github.com/golang/go/commits?author=benshi001) & [LLVM](https://github.com/llvm/llvm-project/commits?author=benshi001) contributor
     social:
     - icon: ti-github
       link: https://github.com/golang/go/commits?author=benshi001
