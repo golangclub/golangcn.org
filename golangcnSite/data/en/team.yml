@@ -171,3 +171,11 @@ team:
       - icon: ti-github
         link: https://github.com/golang/go/commits?author=callthingsoff
     designation: xigua67damn@golangcn.org
+  - name: Xuerui Wang
+    image: "/images/team/gopher.jpg"
+    content: Go compiler contributor
+    social:
+      - icon: ti-github
+        link: https://github.com/golang/go/commits?author=xen0n
+    image_webp: "/images/team/gopher.webp"
+    designation: xen0n@golangcn.org
