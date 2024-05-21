@@ -20,8 +20,8 @@ team:
     - icon: ti-github
       link: https://github.com/golang/go/commits?author=oiooj
   - name: Ben Shi
-    image_webp: images/team/benshi.webp
-    image: images/team/benshi.png
+    image_webp: images/team/benshi_2.webp
+    image: images/team/benshi_2.jpg
     designation: benshi2@golangcn.org
     content: Go compiler & [LLVM](https://github.com/llvm/llvm-project/commits?author=benshi001) contributor
     social:
