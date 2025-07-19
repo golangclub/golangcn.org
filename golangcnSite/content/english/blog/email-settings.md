@@ -10,20 +10,23 @@ author: contributor
 
 #### 0. Activation Email Account
 
-Use your mobile phone number to activate your email account, [click here.](https://exmail.qq.com/login)
+Use your mobile phone number to activate your email account, [https://mail.golangcn.org](https://mail.golangcn.org).
 
 #### 1. Mail Client Settings:
 
-    POP3/SMTP
-    POP Server: pop.exmail.qq.com , SSL, PORT 995
-    SMTP Server: smtp.exmail.qq.com , SSL, PORT 465
-    
-    IMAP
-    Receive Server: imap.exmail.qq.com , SSL, PORT 993
-    Send Server: smtp.exmail.qq.com , SSL, PORT 465
+IMAP Server: heracles.mxrouting.net
+SMTP Server: heracles.mxrouting.net
+
+PORTS:
+IMAP SSL: 993
+IMAP Non-SSL: 143
+POP3 SSL: 995
+POP3 Non-SSL: 110
+SMTP SSL: 465
+SMTP Non-SSL/STARTTLS: 25, 587
     
 
-[Setting document](https://work.weixin.qq.com/help?person_id=0&doc_id=431&helpType=exmail) web login: [https://exmail.qq.com](https://exmail.qq.com "https://exmail.qq.com")
+web login: [https://mail.golangcn.org](https://mail.golangcn.org)
 
 #### 2. Add your golangcn.org email address in Github and go-review
 
@@ -35,11 +38,8 @@ go-review: [https://go-review.googlesource.com/settings/#EmailAddresses](https:/
 
 Send a PR to display your profile on our website, example: [https://github.com/golangclub/golangcn.org/pull/1/files](https://github.com/golangclub/golangcn.org/pull/1/files)
 
-#### 4. Send message to all members
 
-If you are in, you can use _contributors@golangcn.org_ to send message to all members, others will not be able to do this.
-
-#### 5. Logos
+#### 4. Logos
 
 First things first: you will need our permission to use our logos.
 
