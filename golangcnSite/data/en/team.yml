@@ -179,3 +179,11 @@ team:
       - icon: ti-github
         link: https://github.com/golang/go/commits?author=xen0n
     designation: xen0n@golangcn.org
+  - name: Zxilly Zhou
+    image: "/images/team/zxilly.jpg"
+    image_webp: "/images/team/zxilly.png"
+    content: WASM port maintainer
+    social:
+      - icon: ti-github
+        link: https://github.com/golang/go/commits?author=Zxilly
+    designation: zxilly@golangcn.org
