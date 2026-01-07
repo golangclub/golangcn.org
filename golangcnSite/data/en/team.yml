@@ -187,3 +187,11 @@ team:
       - icon: ti-github
         link: https://github.com/golang/go/commits?author=Zxilly
     designation: zxilly@golangcn.org
+  - name: Youlin Feng
+    image: "/images/team/fengyoulin.jpg"
+    image_webp: "/images/team/fengyoulin.webp"
+    content: Go compiler contributor
+    social:
+      - icon: ti-github
+        link: https://github.com/golang/go/commits?author=fengyoulin
+    designation: fengyoulin@golangcn.org
