@@ -187,3 +187,11 @@ team:
       - icon: ti-github
         link: https://github.com/golang/go/commits?author=Zxilly
     designation: zxilly@golangcn.org
+  - name: Xiaolin Zhao
+    image: "/images/team/zhaoxiaolin.jpg"
+    image_webp: "/images/team/zhaoxiaolin.webp"
+    content: Go contributor
+    social:
+      - icon: ti-github
+        link: https://github.com/golang/go/commits?author=sophie-zhao
+    designation: XiaolinZhao@golangcn.org
